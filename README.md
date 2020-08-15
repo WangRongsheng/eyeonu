@@ -9,7 +9,7 @@
 git clone https://github.com/WangRongsheng/eyeonu
 ```
 
-如果你是一个普通使用者，我建议你下载[eyeonu.exe]()
+如果你是一个普通使用者，我建议你下载[eyeonu.exe](https://github.com/WangRongsheng/eyeonu/releases/download/1.0.0/eyeonu.exe)
 
 # 感谢支持
 
